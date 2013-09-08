@@ -51,7 +51,7 @@ public class FirstTest {
 	}
 
 	@Test(groups = { Groups.Fast }, invocationCount=5)
-	public void thisIsTheThirsTest() throws InterruptedException {
+	public void thisIsTheThirdTest() throws InterruptedException {
 		Thread.sleep(TimeUnit.MILLISECONDS.convert(250, TimeUnit.MILLISECONDS));
 		System.out.println("thisIsTheThirdTest");
 	}
