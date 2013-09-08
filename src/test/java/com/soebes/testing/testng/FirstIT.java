@@ -11,7 +11,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners({ListenerX.class})
-public class FirstTest {
+public class FirstIT {
 
 	@BeforeClass
 	public void beforeClass() {
