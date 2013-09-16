@@ -17,11 +17,6 @@
 
   <description>TestNG Example how to use Listener and before methods.</description>
 
-  <properties>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-
   <scm>
     <developerConnection>scm:git:git@github.com:khmarbaise/testng-example.git</developerConnection>
     <connection>scm:git:git://github.com/khmarbaise/testng-example.git</connection>
