@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-@Listeners({ListenerX.class})
+@Listeners({IntegrationTestListener.class})
 public class FirstIT {
 
 	@BeforeClass
